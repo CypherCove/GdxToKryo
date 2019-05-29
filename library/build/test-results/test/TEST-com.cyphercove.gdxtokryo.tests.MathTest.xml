@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cyphercove.gdxtokryo.tests.MathTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-05-29T01:27:34" hostname="DESKTOP-2G5GHID" time="0.018">
+  <properties/>
+  <testcase name="testCollisionClasses" classname="com.cyphercove.gdxtokryo.tests.MathTest" time="0.002"/>
+  <testcase name="testMathClasses" classname="com.cyphercove.gdxtokryo.tests.MathTest" time="0.015"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

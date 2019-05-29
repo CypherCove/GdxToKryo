@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cyphercove.gdxtokryo.tests.GraphHeaderTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-05-29T01:27:33" hostname="DESKTOP-2G5GHID" time="0.933">
+  <properties/>
+  <testcase name="testRemovedPixmapField" classname="com.cyphercove.gdxtokryo.tests.GraphHeaderTest" time="0.933"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
